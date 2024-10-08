@@ -29,9 +29,8 @@ I'm a passionate Computer Engineering Technology student at Seneca Polytechnic, 
 - [LinkedIn](https://www.linkedin.com/in/vanshdave)
 
 ## 📊 GitHub Stats
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshDave&show_icons=true&theme=radical)
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdave18&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshDave&layout=compact&theme=radical)
 
 Thank you for visiting my GitHub profile! Have a great day! 😊
 
