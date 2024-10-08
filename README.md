@@ -22,11 +22,11 @@ I'm a passionate Computer Engineering Technology student at Seneca Polytechnic, 
 
 ## 📫 How to Reach Me
 - **Email**: [vdave18@myseneca.ca](mailto:vdave18@myseneca.ca)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vanshdave)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vansh-dave-ba2b02250/)
 - **Portfolio**: [Portfolio Website](https://vanshdave.netlify.app/)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vanshdave)
+- [LinkedIn](https://www.linkedin.com/in/vansh-dave-ba2b02250/)
 
 ## 📊 GitHub Stats
 ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdave18&show_icons=true)
