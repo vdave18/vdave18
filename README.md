@@ -1,36 +1,51 @@
-# Hi there, I'm Vansh Dave! 👋
+# Hi, I'm Vansh Dave 👋  
+🎓 Computer Engineering Technology Graduate (Honours, GPA 3.8/4.0) – Seneca Polytechnic  
+💡 Passionate about IT Support, Troubleshooting, Networking, and Embedded Systems  
+📍 Based in Toronto, ON | 🌐 Open to IT & Tech opportunities  
 
-I'm a passionate Computer Engineering Technology student at Seneca Polytechnic, Toronto, specializing in hardware design, system optimization, and software development.
- Welcome to my GitHub profile! Here you will find a showcase of my projects, skills, and contributions to the tech community.
+---
 
-## 🚀 About Me
-- 🎓 **Education**: Advanced Diploma in Computer Engineering Technology at Seneca Polytechnic
-- 📊 **GPA**: 3.8/4.0
-- 🛠 **Core Skills**: Troubleshooting, Hardware Design, System Optimization, and Programming
-- 📚 **Programming Languages**: C, C++, C#, Python, JavaScript, HTML
-- 🔧 **Hardware Knowledge**: Multimeter, Oscilloscope, Function Generator, PCB Design, Raspberry Pi
-- 🌐 **Networking & Data Management**: SQL, MS Access, TCP/IP, ARP, DNS
-- 💻 **Operating Systems**: Windows (8, 10, 11), MacOS, Linux
-- ⚙️ **Tools & Technologies**: Visual Studio, Wireshark, VMware, AWS, Azure, Salesforce, Cybersecurity Basics, Adobe Suite, Putty, OrCAD, PADS, TIA Portal
-- 🎮 **Hobbies**: Coding, Hardware Projects, Graphic Design, Participating in Technical Events
+## 🚀 About Me  
+🔧 Experienced in hardware/software troubleshooting, desktop support, and Microsoft 365 administration.  
+🌐 Hands-on with networking essentials: TCP/IP, DHCP, DNS, VLANs, Wireshark, Cisco Packet Tracer, VyOS.  
+🤖 Developed **GestroDrive**: a gesture & web-controlled RC car using ESP32, ESP32-CAM, FreeRTOS, and MPU6050 with live video streaming.  
+🛠 Skilled in embedded systems: ESP32, Raspberry Pi, Siemens PLC, FRDM-K64F, PCF8574 I/O expander.  
+💻 Strong programming background in **C, C++, C#, Python, MySQL, HTML, CSS**.  
+☁️ Familiar with AWS, Azure, and Linux terminal workflows.  
 
-## 🏆 Certifications & Achievements
-- **Certified Great Learning C Programmer**
-- **President’s Honour List** for achieving a 4.0 GPA (Winter 2024)
-- **Participated in Intel AI Aware Program** 2023
-- Currently **preparing for CompTIA IT Fundamentals, A+, Network+**
+---
 
-## 📫 How to Reach Me
-- **Email**: [vdave18@myseneca.ca](mailto:vdave18@myseneca.ca)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vansh-dave-ba2b02250/)
-- **Portfolio**: [Portfolio Website](https://vanshdave.netlify.app/)
+## 🛠️ Tech Stack  
+**Languages:** C, C++, C#, Python, MySQL, HTML, CSS  
+**Embedded/IoT:** ESP32, Raspberry Pi, Siemens PLC, FRDM-K64F, FreeRTOS  
+**Networking:** TCP/IP, DHCP, DNS, VLANs, Cisco Packet Tracer, VyOS, Wireshark  
+**Systems:** Windows 7–11, macOS, Ubuntu, Fedora, Kali Linux  
+**Cloud/Tools:** AWS, Azure, GitHub, VMware, PuTTY  
+**Design/EDA:** AutoCAD, Fusion 360, OrCAD, Eagle, PADS, TIA Portal  
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vansh-dave-ba2b02250/)
+---
 
-## 📊 GitHub Stats
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdave18&show_icons=true)
+## 🏆 Highlights  
+🎓 President’s Honour List – Winter 2024 (GPA 4.0 term)  
+🛠️ Built and integrated real-time sensor systems with ESP32, OLED, ultrasonic sensors, and buzzer alerts  
+🤝 Provided IT & AV technical support at Seneca Polytechnic events ensuring 100% uptime  
+☁️ Completed IBM Cognitive Class Certifications in Data Science, Machine Learning, and Big Data  
+👨‍💻 Strong problem-solving, clear communication, and teamwork skills proven through academics and work  
 
+---
 
-Thank you for visiting my GitHub profile! Have a great day! 😊
+## 📂 Featured Projects  
+- **[GestroDrive](https://github.com/vdave18/GestroDrive)** – ESP32-based gesture & web-controlled RC car with FreeRTOS, OLED, ultrasonic auto-stop, and ESP32-CAM live stream.  
+- **Automatic Door Opener** – LabJack UE9 + proximity sensors for safe hands-free automation.  
+- **Inventory Management System (C)** – Console-based inventory manager.  
+- **Student Record Management App (C#)** – Desktop app for record keeping.  
+- **Snake Game (Python)** – Classic arcade-style game.  
+- **Raspberry Pi NAS** – Personal network storage project.  
 
+---
+
+## 📫 Connect with Me  
+📧 Email: [vanshdave07@gmail.com](mailto:vanshdave07@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/vansh-dave-ba2b02250](https://www.linkedin.com/in/vansh-dave-ba2b02250/)  
+🌐 Portfolio: [vanshdave.netlify.app](https://vanshdave.netlify.app)  
+🖥️ GitHub: [github.com/vdave18](https://github.com/vdave18)  
