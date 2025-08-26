@@ -1,51 +1,51 @@
-# Hi, I'm Vansh Dave 👋  
-🎓 Computer Engineering Technology Graduate (Honours, GPA 3.8/4.0) – Seneca Polytechnic  
-💡 Passionate about IT Support, Troubleshooting, Networking, and Embedded Systems  
-📍 Based in Toronto, ON | 🌐 Open to IT & Tech opportunities  
+# Hi there, I'm Vansh Dave! 👋
+
+I'm a **Computer Engineering Technology Graduate** (Honours, GPA 3.8/4.0) from **Seneca Polytechnic, Toronto**, with a strong foundation in **IT support, networking, and embedded systems**.  
+Welcome to my GitHub profile! Here you will find a showcase of my projects, technical skills, and contributions to the tech community.
 
 ---
 
-## 🚀 About Me  
-🔧 Experienced in hardware/software troubleshooting, desktop support, and Microsoft 365 administration.  
-🌐 Hands-on with networking essentials: TCP/IP, DHCP, DNS, VLANs, Wireshark, Cisco Packet Tracer, VyOS.  
-🤖 Developed **GestroDrive**: a gesture & web-controlled RC car using ESP32, ESP32-CAM, FreeRTOS, and MPU6050 with live video streaming.  
-🛠 Skilled in embedded systems: ESP32, Raspberry Pi, Siemens PLC, FRDM-K64F, PCF8574 I/O expander.  
-💻 Strong programming background in **C, C++, C#, Python, MySQL, HTML, CSS**.  
-☁️ Familiar with AWS, Azure, and Linux terminal workflows.  
+## 🚀 About Me
+- 🎓 **Education**: Advanced Diploma in Computer Engineering Technology – Seneca Polytechnic  
+- 🛠 **Core Skills**: IT & Desktop Support, Troubleshooting, Hardware/Software Optimization, Embedded Systems  
+- 📚 **Programming Languages**: C, C++, C#, Python, MySQL, HTML, CSS  
+- 🔧 **Hardware Knowledge**: ESP32, Raspberry Pi, Siemens PLC, FRDM-K64F, PCB Design, Sensor Integration  
+- 🌐 **Networking & Security**: TCP/IP, DHCP, DNS, VLANs, Wireshark, Cisco Packet Tracer, VyOS  
+- 💻 **Operating Systems**: Windows 7–11, macOS, Ubuntu, Fedora, Kali Linux  
+- ⚙️ **Tools & Technologies**: Visual Studio, AWS, Azure, VMware, GitHub, PuTTY, OrCAD, Fusion 360, TIA Portal  
+- 🎮 **Interests**: IoT Projects, Hardware Design, Coding Challenges, Exploring New Tech  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** C, C++, C#, Python, MySQL, HTML, CSS  
-**Embedded/IoT:** ESP32, Raspberry Pi, Siemens PLC, FRDM-K64F, FreeRTOS  
-**Networking:** TCP/IP, DHCP, DNS, VLANs, Cisco Packet Tracer, VyOS, Wireshark  
-**Systems:** Windows 7–11, macOS, Ubuntu, Fedora, Kali Linux  
-**Cloud/Tools:** AWS, Azure, GitHub, VMware, PuTTY  
-**Design/EDA:** AutoCAD, Fusion 360, OrCAD, Eagle, PADS, TIA Portal  
+## 🏆 Certifications & Achievements
+- IBM Cognitive Class Certifications: Big Data, Data Science, Machine Learning, NoSQL, Text Analytics, Data Visualization (2025)  
+- **President’s Honour List** – Winter 2024 (GPA 4.0 term)  
+- WHMIS Certification (2023)  
+- Preparing for **CompTIA IT Fundamentals, A+, Network+**  
 
 ---
 
-## 🏆 Highlights  
-🎓 President’s Honour List – Winter 2024 (GPA 4.0 term)  
-🛠️ Built and integrated real-time sensor systems with ESP32, OLED, ultrasonic sensors, and buzzer alerts  
-🤝 Provided IT & AV technical support at Seneca Polytechnic events ensuring 100% uptime  
-☁️ Completed IBM Cognitive Class Certifications in Data Science, Machine Learning, and Big Data  
-👨‍💻 Strong problem-solving, clear communication, and teamwork skills proven through academics and work  
+## 📂 Featured Projects
+- **[GestroDrive](https://github.com/vdave18/GestroDrive)** – Gesture & Web controlled RC car with ESP32, ESP32-CAM, FreeRTOS, OLED display, ultrasonic sensors, and auto-stop safety features.  
+- **Automatic Door Opener** – LabJack UE9 + proximity sensors for safe, hands-free operation.  
+- **Inventory Management System (C)** – Console-based inventory management tool.  
+- **Student Record Management App (C#)** – Desktop-based academic record system.  
+- **Snake Game (Python)** – Classic arcade game implementation.  
+- **Raspberry Pi NAS** – Personal cloud storage setup.  
 
 ---
 
-## 📂 Featured Projects  
-- **[GestroDrive](https://github.com/vdave18/GestroDrive)** – ESP32-based gesture & web-controlled RC car with FreeRTOS, OLED, ultrasonic auto-stop, and ESP32-CAM live stream.  
-- **Automatic Door Opener** – LabJack UE9 + proximity sensors for safe hands-free automation.  
-- **Inventory Management System (C)** – Console-based inventory manager.  
-- **Student Record Management App (C#)** – Desktop app for record keeping.  
-- **Snake Game (Python)** – Classic arcade-style game.  
-- **Raspberry Pi NAS** – Personal network storage project.  
+## 📫 How to Reach Me
+- 📧 **Email**: [vanshdave07@gmail.com](mailto:vanshdave07@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/vansh-dave-ba2b02250](https://www.linkedin.com/in/vansh-dave-ba2b02250/)  
+- 🌐 **Portfolio**: [vanshdave.netlify.app](https://vanshdave.netlify.app)  
+- 🖥️ **GitHub**: [github.com/vdave18](https://github.com/vdave18)  
 
 ---
 
-## 📫 Connect with Me  
-📧 Email: [vanshdave07@gmail.com](mailto:vanshdave07@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/vansh-dave-ba2b02250](https://www.linkedin.com/in/vansh-dave-ba2b02250/)  
-🌐 Portfolio: [vanshdave.netlify.app](https://vanshdave.netlify.app)  
-🖥️ GitHub: [github.com/vdave18](https://github.com/vdave18)  
+## 📊 GitHub Stats
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdave18&show_icons=true)
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
