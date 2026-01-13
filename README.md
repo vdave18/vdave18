@@ -38,7 +38,6 @@ Welcome to my GitHub profile! Here you will find a showcase of my projects, tech
 ## 📫 How to Reach Me
 - 📧 **Email**: [vanshdave07@gmail.com](mailto:vanshdave07@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/vansh-dave-ba2b02250](https://www.linkedin.com/in/vansh-dave-ba2b02250/)  
-- 🌐 **Portfolio**: [vanshdave.netlify.app](https://vanshdave.netlify.app)  
 - 🖥️ **GitHub**: [github.com/vdave18](https://github.com/vdave18)  
 
 ---
